@@ -24,6 +24,8 @@ Write a 30-second multi-character voiceover script for an EatClub Daily Meal Box
 
 ## 🎬 AI Video Generation & Assets (`Timeline 1.mp4`)
 
+▶️ **[Click Here to Watch the UGC Video Ad Campaign](https://drive.google.com/file/d/1YcqkUCJa2ZHmdohGTGsefn1R5WVRCTmX/view?usp=sharing)**
+
 The finalized text script below was fed into **Adobe Firefly** to automatically orchestrate the high-fidelity visual B-roll, character models, scene environmental transitions, and vocal rendering.
 
 ### 📝 Firefly Input Script & Narrative Timeline
